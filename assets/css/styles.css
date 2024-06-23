@@ -1,0 +1,9 @@
+.intro-text {
+    font-size: 14px; /* 원하는 크기로 조절 */
+    line-height: 1.6; /* 줄 간격 조절 */
+  }
+  
+  .intro-text strong {
+    font-size: 16px; /* 굵은 글씨 크기 조절 */
+  }
+  
