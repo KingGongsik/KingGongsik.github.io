@@ -6,7 +6,7 @@ tag: c++
 ---
 
 
-## Day1 - <p><a href="#first">자료형</a></p>    
+## Day1 - <a href="#first">자료형</a>
 
 <p id="first">  </p>
 int i = 0;  
