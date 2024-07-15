@@ -6,7 +6,7 @@ tag: c++
 ---
 
 
-## Day2 - <a href="#first">if / else</a>
+## Day4 - <a href="#first">if / else</a>
   
 
 <p id="first">  </p>
